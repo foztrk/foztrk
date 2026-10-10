@@ -4,9 +4,9 @@
   <p><strong>🇹🇷 Bağımsız Açık Kaynak Geliştirici & Yapay Zeka Araçları Yerelleştirme Mimarı</strong></p>
 
   <p>
+    <a href="mailto:gmzoztr@gmail.com"><img src="https://img.shields.io/badge/Email-gmzoztr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://github.com/foztrk"><img src="https://img.shields.io/github/followers/foztrk?label=Takip%C3%A7iler&style=flat-square&color=2ea44f" alt="Followers"></a>
-    <a href="https://t.me/farukoztrk"><img src="https://img.shields.io/badge/Telegram-Topluluk-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://x.com/fpxelndl"><img src="https://img.shields.io/badge/X-Takip_Et-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+    <a href="https://github.com/foztrk?tab=repositories"><img src="https://img.shields.io/badge/Açık_Kaynak-Repolar-0969da?style=flat-square&logo=github&logoColor=white" alt="Repolar"></a>
   </p>
 
 </div>
@@ -51,9 +51,8 @@ Geliştiricilerin dil bariyerine takılmadan en güncel AI araçlarını en yük
 
 ---
 
-### 📬 İletişim & Topluluk
+### 📬 İletişim
 
-* 💬 **Telegram:** [@farukoztrk](https://t.me/farukoztrk)
-* 🐦 **X (Twitter):** [@fpxelndl](https://x.com/fpxelndl)
+* ✉️ **E-posta:** [gmzoztr@gmail.com](mailto:gmzoztr@gmail.com)
 * 🌐 **GitHub:** [@foztrk](https://github.com/foztrk)
 * 📍 **Konum:** Adana, Türkiye
